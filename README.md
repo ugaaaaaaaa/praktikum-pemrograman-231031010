@@ -3,7 +3,7 @@
 <div>NIM: 231031010</div>
 <div>Prodi: Sistem Informasi</div>
 
-* Praktikum 1: Pengenalan Variabel `Praktikum-a1`
+* Praktikum 1: Pengenalan Variabel `Praktikum-a1.py`
 * Praktikum-a2: Pengenalan Assignment `praktikum-a2.py`
 * Praktikum-a3: Pengenalan Method `praktikum-a3.py`
 * Praktikum-a4: Pengenalan Method dan slicing `praktikum-a4.py`
