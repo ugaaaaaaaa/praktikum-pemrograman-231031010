@@ -16,7 +16,7 @@
 * Tugas-2-a10: Latihan membuat fungsi selisih waktu dan konversi waktu `231031010-Anugrah Dwi Ansarna-tugas-2-a10.py`
 * Praktikum-a10: Pengenalan Jupyter Notebook `231031010-Anugrah Dwi Ansarna-praktikum-a10.py`
 * Praktikum-a11: Membuat program Rekursif `231031010-Anugrah Dwi Ansarna-praktikum-a11.py`
-Latihan-a1: Latihan penggunaan If else `latihan_1.py`
-Latihan-a2: Latihan penggunaan If else `latihan_2.py`
-Latihan-a3: Latihan penggunaan If else dengan use case yang lebih kompleks `latihan_3.py`
-Latihan-a4: Latihan penggunaan If else dengan use case yang lebih kompleks `latihan_4.py`
+* Latihan-a1: Latihan penggunaan If else `latihan_1.py`
+* Latihan-a2: Latihan penggunaan If else `latihan_2.py`
+* Latihan-a3: Latihan penggunaan If else dengan use case yang lebih kompleks `latihan_3.py`
+* Latihan-a4: Latihan penggunaan If else dengan use case yang lebih kompleks `latihan_4.py`
